@@ -14,4 +14,4 @@ spec:
     spec:
       containers:
       - name: hello
-        image: "asia.gcr.io/trial-velostrata/hello:10"
+        image: "docker pull asia.gcr.io/trial-velostrata/hello-node:latest"
